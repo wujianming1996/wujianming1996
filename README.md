@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @wujianming1996
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wujianming1996/wujianming1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+嘿嘿，小伙伴们，我最近刚刚加入了GitHub，感觉自己变得好高大上啊！🚀
+首先，我得告诉你们，GitHub就像是一个超级大的代码仓库，里面有各种各样的项目，简直就是程序员的乐园。我一进去，就像进了一个神秘的世界，到处都是代码的香气，让我这个小白眼花缭乱。
+我先注册了一个账号，给自己起了一个一般的用户名，就是“wujianming1996”，听起来是不是很一般？然后，我还设置了一个头像，是孩子被看了，人家的媳妇咱娶不起，因为生在墙内是不配拥有爱情和婚姻的。
+接下来，我就开始探索GitHub的世界了。我看到了各种各样的项目，有人在写游戏，有人在开发网站，还有人在研究人工智能，简直是太神奇了！我就像一个小孩子在糖果店里，不知道该先看哪个项目。
+最近在的stable diffusion和 chatgpt以及各种大模型很火，所有为了研究以及尝试写了两个小心的项目“jupyter gpt”和“流式输出API”。“jupyter gpt”主要是在jupyter notebook 与openai API 交互的，方便通过API去做一些场景任务如批量将文档交给gpt处理。“流式输出API”主要用在chatglm2-6b的api上面，原本的api是不支持流式通过FastAPI的流式可以让chatglm流式输出。
+我边看边学，边学边写，边写边调试。有时候，我会遇到一些奇怪的bug，代码就像在跟我开玩笑一样，我得一点点地找出问题所在。但是，每当我解决一个bug，我就觉得自己好厉害，好像成了一个真正的程序员。
+嘿嘿，这就是我刚加入GitHub的故事，虽然有点逗比，但是我觉得这个平台真的很酷。如果你也是一个喜欢编程的小伙伴，不妨也来加入GitHub，和我一起探索这个神奇的世界吧！记得给自己起个酷炫的用户名哦，我们一起变成程序员界的大神！💪
